@@ -1,0 +1,65 @@
+.container{
+    height: 600px;
+    width: 1340px;
+    background-color: rgb(225, 202, 173);
+    
+}
+
+.img{
+    height: 390px;
+    width: 750px;
+    background-color: chartreuse;
+    position: relative;
+    top: 100px;
+    left: 290px;
+    background-image: url(DR.NORMAN.jpg);
+    background-size: cover;
+    border: solid 2px black;
+  
+
+}
+
+.dr{
+    text-align: center;
+}
+
+.part{
+    text-align: center;
+}
+
+#aa{
+    line-height: 4px;
+}
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    font-size:xx-large;
+}
+.the{
+    text-align: center;
+    color: burlywood;
+}
+
+
+#bb{
+    line-height: 6px;
+}
+.here{
+    text-align: center;
+    color: rgb(44, 44, 139);
+    font-size: x-large;
+}
+
+.last{
+    width:750px;
+    position: relative;
+    left: 290px;
+}
+
+#CC{
+    text-align: left;
+}
+body{
+    background-color:antiquewhite;
+}
+

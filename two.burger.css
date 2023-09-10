@@ -1,0 +1,161 @@
+.container{
+    height: 550px;
+    width: 700px;
+    background-color: #428ab0;
+}
+
+.a{
+width: 7px;
+height: 50px;
+background-color: chocolate;
+margin-left: 350px;
+}
+
+.b{
+    height:55px;
+    width: 40px;
+    background-color:green;
+    margin-left: 332px;
+    border-radius: 20px;
+}
+
+.c{
+    height:50px;
+    width: 400px;
+    background-color: rgb(142, 71, 20);
+    margin-left: 150px;
+    border-radius: 7px;
+}
+
+.d{
+    height:15px;
+    width: 430px;
+    background-color:rgb(241, 223, 199);
+    margin-left: 135px;
+    border-radius: 7px;
+}
+
+.e{
+    height:27px;
+    width: 170px;
+    background-color:rgb(1, 73, 1);
+    margin-bottom: 2px;
+    margin-left: 180px;
+
+}
+
+.f{
+    height:27px;
+    width: 170px;
+    background-color:rgb(1, 73, 1); 
+    margin-left: 357px;
+    position: relative;
+    bottom: 29px;
+
+
+}
+
+.g{
+    height:15px;
+    width: 430px;
+    background-color:yellow;
+    margin-left: 135px;
+    border-radius: 2px;
+    position: relative;
+    bottom: 29px;
+}
+
+
+.h{
+    height:15px;
+    width: 430px;
+    background-color:pink;
+    margin-left: 135px;
+    border-radius: 2px;
+    position: relative;
+    bottom: 29px;
+}
+
+
+.i{
+    height:50px;
+    width: 400px;
+    background-color:rgb(169, 80, 51);
+    margin-left: 150px;
+    
+    position: relative;
+    bottom: 29px;
+}
+
+.j{
+    height:22px;
+    width: 430px;
+    background-color:rgb(123, 184, 32);
+    margin-left: 135px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 29px;
+}
+
+.k{
+    height:15px;
+    width: 410px;
+    background-color:rgb(214, 214, 11);
+    margin-left: 145px;
+    position: relative;
+    bottom: 29px;
+}
+
+.l{
+    height:30px;
+    width: 170px;
+    background-color:red;
+    position: relative;
+    bottom: 28px;
+    left: 175px;
+
+    
+}
+
+
+.m{
+    height:30px;
+    width: 170px;
+    background-color:red; 
+    position: relative;
+    bottom: 58px;
+    left: 352px;
+}
+
+
+.n{
+    height:15px;
+    width: 430px;
+    background-color:rgb(241, 223, 199);
+    margin-left: 135px;
+    border-radius: 7px;
+    position: relative;
+    bottom: 57px;
+}
+
+
+.o{
+    height:50px;
+    width: 400px;
+    background-color: rgb(117, 68, 32);
+    margin-left: 150px;
+    border-radius: 7px;
+    position: relative;
+    bottom: 57px;
+}
+
+.p{
+    height:15px;
+    width: 500px;
+    background-color:purple;
+    margin-left: 100px;
+    border-radius: 2px;
+    position: relative;
+    bottom: 59px;
+
+}

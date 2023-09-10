@@ -1,0 +1,104 @@
+ body{ 
+    background-color: rgb(249, 249, 249);
+   
+}
+
+button{
+    color: black;
+    font-weight:bolder;
+    border: none;
+    font-size: x-large;
+    padding: 22px;
+    background-color: white;
+position: relative;    
+bottom: 20px;
+left: 600px;
+}
+.get{
+    background-color: rgb(231, 100, 100);
+   width: 250px;
+   padding: 0;
+   margin-left: 50px;
+   height: 50px;
+   border-radius: 4px;
+}
+
+.port{
+    position: relative;    
+left:80px;
+background-color: white;
+
+padding: 0;
+}
+
+.head{
+    height:80px;
+    width:1700px;
+    background-color: white;
+    
+}
+
+h1{
+    color: rgb(1, 1, 87);
+    font-size: 46px;
+}
+
+.lor{
+    color: rgb(113, 112, 112);
+}
+.sec{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(249, 249, 249);
+    position: relative;
+   left: 170px;
+   top: 150px;
+}
+.learn{
+    background-color: rgb(231, 100, 100);
+    width: 190px;
+   padding: 0;
+   height: 40px;
+   border-radius: 9px;
+   position: relative;
+   left: 4px;
+   top: 12px;
+}
+.hire{
+    color: rgb(34, 34, 90);
+    background-color: rgb(227, 226, 226);
+    border: 1px solid black;
+    border-radius: 9px;
+    padding: 0;
+    height: 40px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+    width: 150px;
+ }
+
+.imgtwo{
+    width: 700px;
+    height: 600px; 
+    position: absolute;    
+     
+    left:830px;
+    bottom: 150px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
